@@ -128,7 +128,6 @@ python3 benchmark-rtk.py
 | `TOOL-DOCUMENTATION-ANALYSIS.md` | Prior documentation review findings |
 | `tests/`, `test.sh` | Test suite |
 | `benchmark-rtk.py` | Synthetic RTK compression benchmark |
-| `rtk-docs/` | Vendored RTK documentation |
 
 ## License
 
